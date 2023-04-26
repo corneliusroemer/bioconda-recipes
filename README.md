@@ -17,7 +17,6 @@ Click on
 
 # The bioconda channel
 
-[![CircleCI](https://circleci.com/gh/bioconda/bioconda-recipes/tree/master.svg?style=shield)](https://circleci.com/gh/bioconda/bioconda-recipes/tree/master)
 [![Gitter](https://badges.gitter.im/bioconda/bioconda-recipes.svg)](https://gitter.im/bioconda/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [Conda](http://anaconda.org) is a platform- and language-independent package
